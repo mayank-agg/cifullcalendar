@@ -2,7 +2,7 @@
 Language and theme files for CIFullCalendar
 
 # About
-CIFullCalendar is a server-side dynamic web application that is responsive to any layout of a viewing screen. The “Super Saiyan Fusion” power of CIFullCalendar allows users to organize, plan and share events to everyone. Simply, install it to your server and become a member then use the wonderful features by easily manipulating your events by dragging, dropping, resizing, clicking, touching, categorizing, grouping, filtering, linking and importing/exporting.
+CIFullCalendar, a server-side dynamic web application, is responsive to any layout of a viewing screen. The “Super Saiyan Fusion” power of CIFullCalendar allows users to organize, plan, and share events with everyone. After the installation, members can use the features by manipulating the events by dragging, dropping, resizing, clicking, touching, categorizing, grouping, filtering, linking, and importing/exporting. 
 
 # Cloud Support
 Supports MySQL or any CodeIgniter supported databases. 
@@ -16,11 +16,11 @@ RSS Feeds – Share your public events by rss feeds (yoursite.com/feeds).
 ICAL – Members are able to export a single event to their Google, Yahoo and live calendars or to a ICAL Format (ics/ical).
 
 # Tools and Muscle
-Supports FullCalendar Scheduler - Purchase FullCalendar Scheduler add-on license that displays events well and assign them easily to various categories. 
+Supports FullCalendar Scheduler - Purchase FullCalendar Scheduler add-on license that displays events and assign them to various categories. 
 
-Event Filtering – Easily filter/view your shared events on your calendar. 
+Event Filtering – Easily filter/view shared events on calendar. 
 
-Group Sharing – Easily share events among members in various groups 
+Group Sharing – Easily share events among members in various groups.
 
 Overlap – Deny or Allow events to overlap other events. 
 
